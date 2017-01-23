@@ -3,4 +3,4 @@
 ## Create a new issue on this repo.
 
 - Add your github username ( Your GitHub profile image will be used. )
-- Add your twitter handle
+- Add your twitter handle, if you have one.
