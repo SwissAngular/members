@@ -2,5 +2,5 @@
 
 ## Create a new issue on this repo.
 
-- Add your github username (Your gitHub profile image will be used)
+- Add your github username ( Your GitHub profile image will be used. )
 - Add your twitter handle
